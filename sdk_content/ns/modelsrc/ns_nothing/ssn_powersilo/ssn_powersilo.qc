@@ -1,0 +1,19 @@
+
+// Stored modelname (without quotes): "valve/models/player/sign/holosign.mdl"
+$modelname "ns_nothing/ssn_powersilo.mdl"
+$cd "."
+$cdtexture "."
+$cliptotextures
+$scale 1.0
+
+$bodygroup "body"
+{
+	studio "sign"
+}
+
+$flags 0
+
+
+$cbox 0 0 0 0 0 0
+
+$bbox 0 0 0 0 0 0

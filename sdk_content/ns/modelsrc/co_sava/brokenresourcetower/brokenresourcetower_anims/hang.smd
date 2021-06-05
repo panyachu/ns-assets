@@ -1,0 +1,8 @@
+version 1
+nodes
+  0 "joint1" -1
+end
+skeleton
+time 0
+    0 0.003820 0.011719 -0.036322 -0.585749 0.000000 0.043277
+end
